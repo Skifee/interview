@@ -1,0 +1,37 @@
+{
+  "broccoli": {
+    "label": "broccoli",
+    "type": "vegetable",
+    "expiration": 1456728008739
+  },
+  "banana": {
+    "label": "banana",
+    "type": "fruit",
+    "expiration": 1456814348739
+  },
+  "whiskey": {
+    "label": "whiskey",
+    "type": "liquor",
+    "expiration": 1456771148739
+  },
+  "taco": {
+    "label": "taco",
+    "type": "mexican",
+    "expiration": 1456814348739
+  },
+  "parsley": {
+    "label": "parsley",
+    "type": "inedible",
+    "expiration": 1456814358910
+  },
+  "cupcake": {
+    "label": "cupcake",
+    "type": "dessert",
+    "expiration": 1457332758910
+  },
+  "eggplant": {
+    "label": "eggplant",
+    "type": "vegetable",
+    "expiration": 1456728258910
+  }
+}
